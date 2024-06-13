@@ -1,7 +1,6 @@
 import axios from 'axios';
 
 const API_KEY = '';
-//AIzaSyBRKVvENZgXyXvJiNlklLnj8dwGb83y0zQ
 
 export const buscarVideos = async (query) => {
   try {
